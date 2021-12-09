@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "fJL8WP7q3V+TRF3L6UBXyn2RqaiL+eypgAbZb93vCg5/o4T85O1lcv6o08FPeCCE9CY0wBy56gDYbJekcaouSQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\lllf5\\OneDrive\\Documents\\CECS429\\SearchEngine\\CECS429.SearchEngine.Ding\\CECS429.SearchEngine.Ding.Stemmer\\CECS429.SearchEngine.Ding.Stemmer.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\lllf5\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\lllf5\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

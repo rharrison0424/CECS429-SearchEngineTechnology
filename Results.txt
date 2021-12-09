@@ -1,0 +1,17 @@
+My default ranked retrieval search engine had a mean response time of 415 milliseconds which translated to
+a throughput of 2.4 queries/second.
+
+I first set the threshold at a value of 1 and skipped terms that had a weight less than that.It had a mean 
+response time of 228 ms which translated to a throughput of 4.4 queries/second. 
+
+Then I set the threshold to 1.5 which had a mean response time of 215 milliseconds and a throughput of 
+4.7 queries/second.
+
+Then I set the threshold to 2 which had a mean response time of 176 milliseconds and a throughput of 
+5.7 queries/second. This seemed to have the best precision as it eliminated smaller words that tend to be
+repeated like: to, a, be, etc. 
+
+Lastly, I set the threshold to 3 which had a mean respnse time of 104 milliseconds which translated to a 
+throughput of 9.6 queries/second. But this had a lower mean average precision because it would result in a lot
+of terms in the query being skipped. The terms skipped ended up being relevant in the query, so I decided to 
+set my threshold at 2.

@@ -1,0 +1,9 @@
+C:\Users\lllf5\OneDrive\Documents\CECS 429\SearchEngine\CECS429.SearchEngine.Ding\CECS429.SearchEngine.Ding.Stemmer\bin\Debug\netstandard2.0\CECS429.SearchEngine.Ding.Stemmer.deps.json
+C:\Users\lllf5\OneDrive\Documents\CECS 429\SearchEngine\CECS429.SearchEngine.Ding\CECS429.SearchEngine.Ding.Stemmer\bin\Debug\netstandard2.0\CECS429.SearchEngine.Ding.Stemmer.dll
+C:\Users\lllf5\OneDrive\Documents\CECS 429\SearchEngine\CECS429.SearchEngine.Ding\CECS429.SearchEngine.Ding.Stemmer\bin\Debug\netstandard2.0\CECS429.SearchEngine.Ding.Stemmer.pdb
+C:\Users\lllf5\OneDrive\Documents\CECS 429\SearchEngine\CECS429.SearchEngine.Ding\CECS429.SearchEngine.Ding.Stemmer\obj\Debug\netstandard2.0\CECS429.SearchEngine.Ding.Stemmer.csprojAssemblyReference.cache
+C:\Users\lllf5\OneDrive\Documents\CECS 429\SearchEngine\CECS429.SearchEngine.Ding\CECS429.SearchEngine.Ding.Stemmer\obj\Debug\netstandard2.0\CECS429.SearchEngine.Ding.Stemmer.AssemblyInfoInputs.cache
+C:\Users\lllf5\OneDrive\Documents\CECS 429\SearchEngine\CECS429.SearchEngine.Ding\CECS429.SearchEngine.Ding.Stemmer\obj\Debug\netstandard2.0\CECS429.SearchEngine.Ding.Stemmer.AssemblyInfo.cs
+C:\Users\lllf5\OneDrive\Documents\CECS 429\SearchEngine\CECS429.SearchEngine.Ding\CECS429.SearchEngine.Ding.Stemmer\obj\Debug\netstandard2.0\CECS429.SearchEngine.Ding.Stemmer.csproj.CoreCompileInputs.cache
+C:\Users\lllf5\OneDrive\Documents\CECS 429\SearchEngine\CECS429.SearchEngine.Ding\CECS429.SearchEngine.Ding.Stemmer\obj\Debug\netstandard2.0\CECS429.SearchEngine.Ding.Stemmer.dll
+C:\Users\lllf5\OneDrive\Documents\CECS 429\SearchEngine\CECS429.SearchEngine.Ding\CECS429.SearchEngine.Ding.Stemmer\obj\Debug\netstandard2.0\CECS429.SearchEngine.Ding.Stemmer.pdb
